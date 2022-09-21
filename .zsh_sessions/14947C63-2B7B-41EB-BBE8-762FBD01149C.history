@@ -1,0 +1,175 @@
+whoami
+sudo su
+sudo su
+sudo su
+exit
+bash
+clear
+ls
+  /bin/zsh /var/folders/p6/6g7vzxh112lbzq22q6dpzh180000gn/T/tmp.WfuhcUcZ
+  /bin/zsh /var/folders/p6/6g7vzxh112lbzq22q6dpzh180000gn/T/tmp.COYVKlFh
+  /bin/zsh /var/folders/p6/6g7vzxh112lbzq22q6dpzh180000gn/T/tmp.COYVKlFh
+  /bin/zsh /var/folders/p6/6g7vzxh112lbzq22q6dpzh180000gn/T/tmp.jokcdqQx
+  /bin/zsh /var/folders/p6/6g7vzxh112lbzq22q6dpzh180000gn/T/tmp.SS4Q8osY
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+clear
+exit
+vim .zshrc
+ls
+ls -a
+echo "export PATH=/usr/local/bin:$PATH" >> ~/.zshrc
+exit
+brew cask spotify
+which brwe
+which brew
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+/opt/homebrew/bin/brew --help
+/opt/homebrew/bin/brew cask spotify
+/opt/homebrew/bin/brew --cask spotify
+/opt/homebrew/bin/brew install --cask spotify
+clear
+exit
+brew --help
+vim .zshrc
+exit
+brew --help
+brew --help
+clear
+cat .zshrc
+vim .zshrc
+clear
+brew install --cask slack
+/Applications/Slack.app
+sudo /Applications/Slack.app
+brew install --cask telegram
+tmux
+brew install tmux
+clear
+brew install tmux
+curl http://localhost:80
+http://localhost:80
+clear
+ls
+clear
+ ls
+pwd
+clear
+ls
+pwd
+http://localhost:80
+ clear
+ls
+exa
+clear
+ls
+sudo su
+sudo su -i
+sudo -i
+sudo -i
+sudo -i
+clear
+curl -L https://iterm2.com/shell_integration/install_shell_integration_and_utilities.sh | bash
+clear
+ls
+sudo -i
+vim .zshrc
+cat .zshrc >> /var/root/.zshrc
+sudo cat .zshrc >> /var/root/.zshrc
+cat .zshrc 
+sudo -i
+sudo -i
+sudo su
+sudo -i
+sudo su
+ls
+pwd
+echo $HOME
+ls
+pwd
+ls -a
+cat .iterm2_shell_integration.zsh
+clear
+ls
+sudo -i
+ls -a
+exit
+sudo su
+sudo -i
+pwd
+cat .zshrc
+ls
+pwd
+ls Users/gavilanbe/.iterm2_shell_integration.zsh
+ls .iterm2_shell_integration.zsh
+sudo su
+sudo su
+clear
+clear
+ls
+Desktop		Documents
+ls
+ls
+ls
+ls
+ls\
+clear
+ls
+ks
+ls
+clear
+ls
+clear
+ls
+pwd
+clear
+ls
+exi
+exit
+ks
+ls
+ls
+pwd
+ls
+arround the world!
+exit
+ls
+cd ~
+ls
+cd /
+cd ~
+clear
+ls
+pwd
+it2attention fireworks
+imgls
+pwd
+ls
+ls
+mkdir Videogames
+cd Videogames
+ls
+mkdir ps1
+cd ps1
+cp /Volumes/Hardrive/Mac/OpenEmu/Xenogears\ \(USA\)\ \(Disc\ 1\).cue .
+cp /Volumes/Hardrive/Mac/OpenEmu/Xenogears\ \(USA\)\ \(Disc\ 2\).cue .
+cp /Volumes/Hardrive/Mac/OpenEmu/Xenogears\ \(USA\).m3u .
+open .
+ls
+clear
+ls
+clear
+ls
+pwd
+clear
+ls
+ls
+whois gavilanbe.io
+clear
+whois ricard@bejarano.io
+ls
+pwd
+pwd
+ sudo reboot
+ echo Yosra93**., | sudo -S reboot
+ echo "Yosra93**.," | sudo -S reboot
+exit

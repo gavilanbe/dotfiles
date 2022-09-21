@@ -1,0 +1,48 @@
+whoami
+sudo su
+sudo su
+sudo su
+exit
+bash
+clear
+ls
+  /bin/zsh /var/folders/p6/6g7vzxh112lbzq22q6dpzh180000gn/T/tmp.WfuhcUcZ
+  /bin/zsh /var/folders/p6/6g7vzxh112lbzq22q6dpzh180000gn/T/tmp.COYVKlFh
+  /bin/zsh /var/folders/p6/6g7vzxh112lbzq22q6dpzh180000gn/T/tmp.COYVKlFh
+  /bin/zsh /var/folders/p6/6g7vzxh112lbzq22q6dpzh180000gn/T/tmp.jokcdqQx
+  /bin/zsh /var/folders/p6/6g7vzxh112lbzq22q6dpzh180000gn/T/tmp.SS4Q8osY
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+clear
+exit
+vim .zshrc
+ls
+ls -a
+echo "export PATH=/usr/local/bin:$PATH" >> ~/.zshrc
+exit
+brew cask spotify
+which brwe
+which brew
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+/opt/homebrew/bin/brew --help
+/opt/homebrew/bin/brew cask spotify
+/opt/homebrew/bin/brew --cask spotify
+/opt/homebrew/bin/brew install --cask spotify
+clear
+exit
+brew --help
+vim .zshrc
+exit
+brew --help
+brew --help
+clear
+cat .zshrc
+vim .zshrc
+clear
+brew install --cask slack
+/Applications/Slack.app
+sudo /Applications/Slack.app
+brew install --cask telegram
+tmux
+brew install tmux
+clear
+brew install tmux
