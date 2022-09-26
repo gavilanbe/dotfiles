@@ -13,6 +13,7 @@ alias tmp="cd ~/Desktop/tmp"
 
 # Git
 alias gaa="git add -A"
+alias gc="git add -A && git commit"
 alias gca="git add --all && git commit --amend --no-edit"
 alias gco="git checkout"
 alias gs="git status -sb"
